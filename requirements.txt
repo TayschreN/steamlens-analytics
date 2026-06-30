@@ -1,0 +1,12 @@
+# --- Núcleo (dashboard + notebooks) ---
+pandas>=2.0,<3.0
+pyarrow>=14.0
+
+# --- Dashboard (app/app.py) ---
+streamlit>=1.30
+plotly>=5.18
+
+# --- Notebooks de EDA (01_limpeza.ipynb, 02_eda.ipynb) ---
+seaborn>=0.13
+matplotlib>=3.8
+jupyter>=1.0
