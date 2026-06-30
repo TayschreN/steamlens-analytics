@@ -2,7 +2,7 @@
 
 Dashboard interativo de análise exploratória sobre o que faz um jogo ter sucesso na Steam, construído com **Streamlit** e **Plotly**.
 
-🔗 **[Acesse o dashboard ao vivo](https://steamlens-analytics.streamlit.app/)** 
+🔗 **[Acesse o Dashboard](https://steamlens-analytics.streamlit.app/)** 
 
 ---
 
