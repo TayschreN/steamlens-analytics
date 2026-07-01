@@ -11,8 +11,6 @@ Dashboard interativo de análise exploratória sobre o que faz um jogo ter suces
 ![Dashboard](imagens/tela4.png)
 ![Dashboard](imagens/tela5.png)
 
-# 🎮 SteamLens — O que faz um jogo ter sucesso na Steam?
-
 Análise exploratória de dados e dashboard interativo sobre **49.739 jogos** publicados na Steam, buscando entender quais fatores — preço, gênero, plataforma, DLC, tipo de desenvolvedor — estão associados a melhor avaliação, maior engajamento e maior alcance.
 
 **Fonte dos dados:** [Steam Games Dataset 2025](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) (Kaggle), arquivo `games_march2025_full.csv`.
