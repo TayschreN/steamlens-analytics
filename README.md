@@ -32,7 +32,6 @@ Análise exploratória de dados e dashboard interativo sobre **49.739 jogos** pu
 - Conversão de `estimated_owners` (faixa de texto) para valor numérico médio
 - Remoção de jogos com menos de 10 avaliações (ruído estatístico)
 - Remoção de registros com `pct_pos_total = -1` (sentinel de "sem dado válido")
-- Remoção do outlier de tag `Hentai` (volume de playtime fora da curva, distorcia análises de engajamento)
 - Dataset final: **49.739 jogos**, 42 colunas
 
 ---
